@@ -1,0 +1,12 @@
+D:\indianRoosterBackend\BackEndCore.ViewModels\bin\Debug\net6.0\BackEndCore.ViewModels.deps.json
+D:\indianRoosterBackend\BackEndCore.ViewModels\bin\Debug\net6.0\BackEndCore.ViewModels.dll
+D:\indianRoosterBackend\BackEndCore.ViewModels\bin\Debug\net6.0\BackEndCore.ViewModels.pdb
+D:\indianRoosterBackend\BackEndCore.ViewModels\obj\Debug\net6.0\BackEndCore.ViewModels.csproj.AssemblyReference.cache
+D:\indianRoosterBackend\BackEndCore.ViewModels\obj\Debug\net6.0\BackEndCore.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+D:\indianRoosterBackend\BackEndCore.ViewModels\obj\Debug\net6.0\BackEndCore.ViewModels.AssemblyInfoInputs.cache
+D:\indianRoosterBackend\BackEndCore.ViewModels\obj\Debug\net6.0\BackEndCore.ViewModels.AssemblyInfo.cs
+D:\indianRoosterBackend\BackEndCore.ViewModels\obj\Debug\net6.0\BackEndCore.ViewModels.csproj.CoreCompileInputs.cache
+D:\indianRoosterBackend\BackEndCore.ViewModels\obj\Debug\net6.0\BackEndCore.ViewModels.dll
+D:\indianRoosterBackend\BackEndCore.ViewModels\obj\Debug\net6.0\refint\BackEndCore.ViewModels.dll
+D:\indianRoosterBackend\BackEndCore.ViewModels\obj\Debug\net6.0\BackEndCore.ViewModels.pdb
+D:\indianRoosterBackend\BackEndCore.ViewModels\obj\Debug\net6.0\ref\BackEndCore.ViewModels.dll

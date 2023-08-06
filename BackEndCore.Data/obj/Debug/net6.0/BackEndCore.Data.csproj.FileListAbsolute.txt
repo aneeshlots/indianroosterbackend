@@ -1,0 +1,12 @@
+D:\indianRoosterBackend\BackEndCore.Data\bin\Debug\net6.0\BackEndCore.Data.deps.json
+D:\indianRoosterBackend\BackEndCore.Data\bin\Debug\net6.0\BackEndCore.Data.dll
+D:\indianRoosterBackend\BackEndCore.Data\bin\Debug\net6.0\BackEndCore.Data.pdb
+D:\indianRoosterBackend\BackEndCore.Data\obj\Debug\net6.0\BackEndCore.Data.csproj.AssemblyReference.cache
+D:\indianRoosterBackend\BackEndCore.Data\obj\Debug\net6.0\BackEndCore.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\indianRoosterBackend\BackEndCore.Data\obj\Debug\net6.0\BackEndCore.Data.AssemblyInfoInputs.cache
+D:\indianRoosterBackend\BackEndCore.Data\obj\Debug\net6.0\BackEndCore.Data.AssemblyInfo.cs
+D:\indianRoosterBackend\BackEndCore.Data\obj\Debug\net6.0\BackEndCore.Data.csproj.CoreCompileInputs.cache
+D:\indianRoosterBackend\BackEndCore.Data\obj\Debug\net6.0\BackEndCore.Data.dll
+D:\indianRoosterBackend\BackEndCore.Data\obj\Debug\net6.0\refint\BackEndCore.Data.dll
+D:\indianRoosterBackend\BackEndCore.Data\obj\Debug\net6.0\BackEndCore.Data.pdb
+D:\indianRoosterBackend\BackEndCore.Data\obj\Debug\net6.0\ref\BackEndCore.Data.dll
